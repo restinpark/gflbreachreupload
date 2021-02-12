@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/alski/scp3199/scparms"
+                "$bumpmap" "models/player/alski/scp3199/scparmsNormalMap"
+}

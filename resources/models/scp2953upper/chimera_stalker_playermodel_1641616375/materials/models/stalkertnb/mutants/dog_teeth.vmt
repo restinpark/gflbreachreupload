@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/stalkertnb/mutants/dog_teeth"
+
+	"$halflambert" 				"1"		
+}

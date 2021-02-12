@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"\models\sligwolf\rustyrobot\tex001"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "models\sligwolf\rustyrobot\tex001_mask"
+	"$envmapcontrast" 1
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+	"$model" 1
+}

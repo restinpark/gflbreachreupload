@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playersylveon\shiny\m17"
+	"$halflambert"	"1"
+}

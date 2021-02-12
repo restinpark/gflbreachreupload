@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\worker\shared\worker_mask_metallic"
+	"$bumpMap" "models\hlvr\characters\worker\shared\worker_mask_normal"
+	"$phongExponentTexture" "models\hlvr\characters\worker\shared\worker_mask_exponent"
+	"$translucent" "1"
+	"$color2" "[0.5 0.5 0.5]"
+	"$ambientOcclusion" "0.36"
+	"$normalMapAlphaEnvMapMask" "1"
+	"$envMap" "env_cubemap"
+	"$envMapTint" "[0.06 0.06 0.06]"
+	"$envMapFresnel" "[1.0]"
+	"$phong" "1"
+	"$NoCull" "1"
+	"$phongBoost" ".8"
+	"$phongexponent" "5"
+	"$phongFresnelRanges" "[1 1.75 5.25]"
+	"$phongDisableHalfLambert" "1"
+}
+

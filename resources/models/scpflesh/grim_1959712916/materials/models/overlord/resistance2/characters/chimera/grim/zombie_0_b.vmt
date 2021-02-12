@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/overlord/Resistance2/characters/chimera/grim/zombie_0_b_c"
+	"$bumpmap" "models/overlord/Resistance2/characters/chimera/grim/zombie_0_b_n"
+                "$halflambert" "1"
+
+	"$phong" "1"
+	"$phongexponent" "10"					
+	"$phongboost"	"2" 
+	"$phongwarptexture"		"models/overlord/Resistance2/shared/phongwarp_test"
+	$lightwarptexture "models/overlord/Resistance2/shared/lightwarp_flesh"	
+	"$phongfresnelranges"	"[ 0.7 0.9 1]"
+
+	"$detail" "models/overlord/Resistance2/shared/detroyedmetal_tank"
+                "$detailblendmode" "0"
+                "$detailscale" "4"
+                "$detailblendfactor" "0.33"
+}

@@ -1,0 +1,6 @@
+    "VertexLitGeneric"
+    {
+	"$basetexture" 	"models\HaloReach\weapons\m41_rocket_launcher\rl_hazard_strip"
+	"$translucent" 	"1"
+	"$nocull"		"1"
+}

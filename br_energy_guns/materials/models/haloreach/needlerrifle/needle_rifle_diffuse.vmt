@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+    {
+	"$basetexture" "models\HaloReach\NeedlerRifle\needle_rifle_diffuse"
+	"$bumpmap" "models\HaloReach\NeedlerRifle\needle_rifle_normal"
+
+	"$detail" "models\HaloReach\cov_hex_detail_detail"
+	"$detailscale"		"10"
+	"$detailblendfactor"		"1"
+
+	$halflambert 1
+	$nocull 1
+
+	$Normalmapalphaenvmapmask 1	
+
+    $phong 1
+	// $phongexponent 7
+	$phongexponenttexture "models\HaloReach\HaloSP"
+	$phongboost	20
+	$phongalbedotint 60
+	$phongfresnelranges	"[14 14 14]"
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.05
+}

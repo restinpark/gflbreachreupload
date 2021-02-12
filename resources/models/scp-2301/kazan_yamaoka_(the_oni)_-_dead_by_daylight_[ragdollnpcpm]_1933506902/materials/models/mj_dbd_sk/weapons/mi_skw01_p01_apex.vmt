@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+
+{
+
+	$basetexture "models\mj_dbd_sk\weapons\T_SKW01_P01_BC.vtf"
+	$bumpmap "models\mj_dbd_sk\weapons\T_SKW01_P01_N.vtf"
+	
+	"$halflambert" 1
+	
+	"$phong" "1"	
+	"$phongexponent" "5"
+	"$phongboost" "0.05"
+	"$phongfresnelranges"		"[1 2 4]"
+
+
+}

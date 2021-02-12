@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\worker\shared\worker_mask_albedo"
+	"$bumpMap" "models\hlvr\characters\worker\shared\worker_mask_normal"
+	"$phongExponentTexture" "models\hlvr\characters\worker\shared\worker_mask_exponent"
+	"$phong" "1"
+	"$phongBoost" "5"
+	"$phongexponent" "5"
+	"$phongFresnelRanges" "[0.1 0.5 1]"
+	"$phongDisableHalfLambert" "1"
+	"$NoCull" "1"
+	"$Detail" 				  	  "models\hlvr\characters\worker\shared\worker_mask_emissive"
+	"$DetailScale" 			  	  "1"
+	"$DetailBlendFactor" 	  	  "1"
+	"$DetailBlendMode" 		   	  "5"
+}
+

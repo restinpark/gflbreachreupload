@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/samjack/sword/gripdetail"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "10"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$phongexponenttexture" "models/samjack/sword/exp"
+	"$phongalbedotint" "1"
+	"$lightwarptexture" "models/samjack/lightwarp"
+
+
+}

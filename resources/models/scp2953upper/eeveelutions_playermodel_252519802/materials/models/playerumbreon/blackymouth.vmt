@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playerumbreon\blackymouth"
+	"$halflambert"	"1"
+}

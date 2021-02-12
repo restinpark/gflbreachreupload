@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\sligwolf\rustyrobot\tex002"
+	"$bumpmap" "models\sligwolf\rustyrobot\tex002_bump"
+}
+

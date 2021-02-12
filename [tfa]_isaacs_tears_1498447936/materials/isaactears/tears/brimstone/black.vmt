@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "metal4"
+	"$additive" "1"
+	"$color2" "[1 1 1]"
+	"$translucent" 	"1"
+	"$model" 		"1"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" "50"
+			"texturescrollangle" "0"
+		}
+	}
+}

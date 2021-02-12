@@ -1,0 +1,11 @@
+player_manager.AddValidModel( "Eevee","models/player_eevee.mdl" )
+player_manager.AddValidModel( "Espeon","models/player_espeon.mdl" )
+player_manager.AddValidModel( "Umbreon","models/player_umbreon.mdl" )
+player_manager.AddValidModel( "Flareon","models/player_flareon.mdl" )
+player_manager.AddValidModel( "Glaceon","models/player_glaceon.mdl" )
+player_manager.AddValidModel( "Leafeon","models/player_leafeon.mdl" )
+player_manager.AddValidModel( "Jolteon","models/player_jolteon.mdl" )
+player_manager.AddValidModel( "Vaporeon","models/player_vaporeon.mdl" )
+player_manager.AddValidModel( "Sylveon","models/player_sylveon.mdl" )
+player_manager.AddValidModel( "Sylveon Shiny","models/player_shinysylveon.mdl" )
+

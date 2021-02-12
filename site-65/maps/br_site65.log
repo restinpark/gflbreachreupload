@@ -1,0 +1,1616 @@
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading Z:\home\xy\Projects\Breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/tools/locked.vtf": cached version doesn't exist
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_fade (-13592.00 -5203.00 -10536.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -9728.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11049.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10833.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10536.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -10752.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 910 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2690703 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading Z:\home\xy\Projects\Breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/tools/locked.vtf": cached version doesn't exist
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing Z:\home\xy\Projects\Breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2086095 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10652 texinfos to 4615
+Reduced 664 texdatas to 577 (32988 bytes to 29794)
+Writing Z:\home\xy\Projects\Breach\breach\site-65\maps\br_site65.bsp
+28 seconds elapsed
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/tools/locked.vtf": cached version doesn't exist
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2086095 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10652 texinfos to 4615
+Reduced 664 texdatas to 577 (32988 bytes to 29794)
+Writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+28 seconds elapsed
+
+
+
+12 threads
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt
+4355 portalclusters
+11521 numportals
+0...1...2...3...4...5...6...7...8...9...100
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+PREP OK
+No vis information, direct lighting only.
+13950 faces
+3 degenerate faces
+46312468 square feet [6668995584.00 square inches]
+625 Displacements
+3624409 Square Feet [521914944.00 Square Inches]
+1207 direct lights
+0
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/tools/locked.vtf": cached version doesn't exist
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -9728.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11049.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10833.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10536.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -10752.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1353686 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4075 texinfos to 3570
+Reduced 147 texdatas to 131 (4290 bytes to 3531)
+Writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+6 seconds elapsed
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/tools/locked.vtf": cached version doesn't exist
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -9728.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11049.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10833.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10536.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -10752.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1353686 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4075 texinfos to 3570
+Reduced 147 texdatas to 131 (4290 bytes to 3531)
+Writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+6 seconds elapsed
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/tools/locked.vtf": cached version doesn't exist
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -9728.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11049.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10833.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10536.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -10752.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1353686 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4075 texinfos to 3570
+Reduced 147 texdatas to 131 (4290 bytes to 3531)
+Writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+6 seconds elapsed
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1987701 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+12 threads
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt
+4329 portalclusters
+11435 numportals
+0...1...2...3...4...5...6...7...8...9...100
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+PREP OK
+No vis information, direct lighting only.
+13433 faces
+1 degenerate faces
+17790744 square feet [2561867008.00 square inches]
+625 Displacements
+3624409 Square Feet [521914944.00 Square Inches]
+0 direct lights
+0
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -9728.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11049.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10833.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10536.5 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -9216.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -10752.0 -2121.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 -11264.0 -2121.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1347094 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4050 texinfos to 3543
+Reduced 144 texdatas to 128 (4225 bytes to 3466)
+Writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+6 seconds elapsed
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2689607 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (12) (2689607 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+12 threads
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt
+4209 portalclusters
+10951 numportals
+0...1...2...3...4...5...6...7...8...9...100
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+PREP OK
+No vis information, direct lighting only.
+13377 faces
+1 degenerate faces
+17785126 square feet [2561058048.00 square inches]
+625 Displacements
+3624409 Square Feet [521914944.00 Square Inches]
+0 direct lights
+0
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 942 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (12) (2689607 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 942 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (12) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (12) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (12) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (12) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+16 threads
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt
+2016 portalclusters
+4354 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 589 visible clusters (0.63%)
+Total clusters visible: 93434
+Average clusters visible: 46
+Building PAS...
+Average clusters audible: 125
+visdatasize:135256  compressed from 1032192
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+1 second elapsed
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (11) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+16 threads
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt
+2016 portalclusters
+4354 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 589 visible clusters (0.63%)
+Total clusters visible: 93434
+Average clusters visible: 46
+Building PAS...
+Average clusters audible: 125
+visdatasize:135256  compressed from 1032192
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+PREP OK
+13377 faces
+1 degenerate faces
+17785126 square feet [2561058048.00 square inches]
+625 Displacements
+3624409 Square Feet [521914944.00 Square Inches]
+13376 patches before subdivision
+483294 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 33604575, max 764
+transfer lists: 256.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2386 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               3748/16384       44976/196608   (22.9%) 
+brushsides           24506/65536      196048/524288   (37.4%) 
+planes               10152/65536      203040/1310720  (15.5%) 
+vertexes             32050/65536      384600/786432   (48.9%) 
+nodes                17510/65536      560320/2097152  (26.7%) 
+texinfos              3543/12288      255096/884736   (28.8%) 
+texdata                128/2048         4096/65536    ( 6.3%) 
+dispinfos              625/0          110000/0        ( 0.0%) 
+disp_verts           50625/0         1012500/0        ( 0.0%) 
+disp_tris            80000/0          160000/0        ( 0.0%) 
+disp_lmsamples     8706476/0         8706476/0        ( 0.0%) 
+faces                13377/65536      749112/3670016  (20.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6825/65536      382200/3670016  (10.4%) 
+leaves               17512/65536      560384/2097152  (26.7%) 
+leaffaces            14682/65536       29364/131072   (22.4%) 
+leafbrushes           7374/65536       14748/131072   (11.3%) 
+areas                    1/1024            8/8192     ( 0.1%) 
+surfedges            90476/512000     361904/2048000  (17.7%) 
+edges                57273/256000     229092/1024000  (22.4%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1669/32768       16690/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         28452/65536       56904/131072   (43.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    26582404/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      135256/16777216 ( 0.8%) 
+entdata               [variable]         405/393216   ( 0.1%) 
+LDR ambient table    17512/65536       70048/262144   (26.7%) 
+HDR ambient table    17512/65536       70048/262144   (26.7%) 
+LDR leaf ambient     10616/65536      297248/1835008  (16.2%) 
+HDR leaf ambient     17512/65536      490336/1835008  (26.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      179002/0        ( 0.0%) 
+physics               [variable]     1347094/4194304  (32.1%) 
+physics terrain       [variable]      186791/1048576  (17.8%) 
+
+Level flags = 0
+
+Total triangle count: 36227
+Writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+8 minutes, 36 seconds elapsed
+
+
+
+materialPath: Z:\home\xy\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CSREV_CONCRETEFLOOR_07, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "asphalt/hr_c/hr_asphalt_gravel_blend_001" not found.
+Material not found!: ASPHALT/HR_C/HR_ASPHALT_GRAVEL_BLEND_001
+material "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01" not found.
+Material not found!: DE_DUST/HR_DUST/HR_DUST_BLEND_ROLLUPDOOR_METAL_01
+Patching WVT material: maps/br_site65/ground/blendsnow_blacktop_wvt_patch
+Patching WVT material: maps/br_site65/nature/blendashdirt01_wvt_patch
+Patching WVT material: maps/br_site65/nature/blend_snowconcrete01_wvt_patch
+Patching WVT material: maps/br_site65/rp_scpfoundation_v8/forest/forestground_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 970 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/starrynight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (12) (2689671 bytes)
+WARNING! model "models/props_rooftop/acvent04.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/floodlight.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_support_64.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001b_frame.mdl" has mismatching model version (49, expected 48)! Expect problems.
+WARNING! model "models/left 4 dead 2/props_equipment/elevator_buttons.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Unable to load vertex data "models/props_equipment\elevator_buttons.vvd"
+
+
+
+16 threads
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+reading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.prt
+2016 portalclusters
+4354 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 589 visible clusters (0.63%)
+Total clusters visible: 93434
+Average clusters visible: 46
+Building PAS...
+Average clusters audible: 125
+visdatasize:135256  compressed from 1032192
+writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+PREP OK
+13377 faces
+1 degenerate faces
+17785126 square feet [2561058048.00 square inches]
+625 Displacements
+3624409 Square Feet [521914944.00 Square Inches]
+13376 patches before subdivision
+483294 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 33604575, max 764
+transfer lists: 256.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2446 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               3748/16384       44976/196608   (22.9%) 
+brushsides           24506/65536      196048/524288   (37.4%) 
+planes               10152/65536      203040/1310720  (15.5%) 
+vertexes             32050/65536      384600/786432   (48.9%) 
+nodes                17510/65536      560320/2097152  (26.7%) 
+texinfos              3543/12288      255096/884736   (28.8%) 
+texdata                128/2048         4096/65536    ( 6.3%) 
+dispinfos              625/0          110000/0        ( 0.0%) 
+disp_verts           50625/0         1012500/0        ( 0.0%) 
+disp_tris            80000/0          160000/0        ( 0.0%) 
+disp_lmsamples     8706476/0         8706476/0        ( 0.0%) 
+faces                13377/65536      749112/3670016  (20.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6825/65536      382200/3670016  (10.4%) 
+leaves               17512/65536      560384/2097152  (26.7%) 
+leaffaces            14682/65536       29364/131072   (22.4%) 
+leafbrushes           7374/65536       14748/131072   (11.3%) 
+areas                    1/1024            8/8192     ( 0.1%) 
+surfedges            90476/512000     361904/2048000  (17.7%) 
+edges                57273/256000     229092/1024000  (22.4%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1669/32768       16690/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         28452/65536       56904/131072   (43.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    26582404/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      135256/16777216 ( 0.8%) 
+entdata               [variable]         405/393216   ( 0.1%) 
+LDR ambient table    17512/65536       70048/262144   (26.7%) 
+HDR ambient table    17512/65536       70048/262144   (26.7%) 
+LDR leaf ambient     10616/65536      297248/1835008  (16.2%) 
+HDR leaf ambient     17512/65536      490336/1835008  (26.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      179002/0        ( 0.0%) 
+physics               [variable]     1347094/4194304  (32.1%) 
+physics terrain       [variable]      186791/1048576  (17.8%) 
+
+Level flags = 0
+
+Total triangle count: 36227
+Writing z:\home\xy\projects\breach\breach\site-65\maps\br_site65.bsp
+8 minutes, 13 seconds elapsed

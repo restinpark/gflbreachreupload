@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\sirgibs\gunshow\pistol_38\weapon_revolver_dm"
+	"$bumpmap" 			"models\sirgibs\gunshow\pistol_38\weapon_revolver_nm"
+//  "$color"			"[1.2 1.2 1.2]"
+
+	"$phong"                        "1"
+	"$phongalbedotint"              "1"
+	"$phongtint"                    "[.67 .9 1]"
+
+	"$phongboost"                   "1"
+	"$phongexponent"                "34"
+	"$phongfresnelranges"           "[0.5 1 2]"
+}

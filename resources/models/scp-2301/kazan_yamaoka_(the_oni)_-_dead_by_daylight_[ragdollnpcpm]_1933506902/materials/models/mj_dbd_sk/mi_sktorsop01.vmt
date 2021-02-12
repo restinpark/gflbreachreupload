@@ -1,0 +1,22 @@
+"vertexlitgeneric"
+
+{
+
+	$basetexture "models\mj_dbd_sk\T_SKTorsoP01_BC.vtf"
+	$bumpmap "models\mj_dbd_sk\T_SKTorsoP01_N.vtf"
+
+	$envmap env_cubemap
+
+	
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongtint" "[1.2 0.8 0.8]"
+	
+	"$phongexponent" "5"
+	"$phongboost" "2"
+	"$phongfresnelranges"		"[1 2 4]"
+	
+	"$bumpmapalphaphongmask"		"1"
+
+
+}

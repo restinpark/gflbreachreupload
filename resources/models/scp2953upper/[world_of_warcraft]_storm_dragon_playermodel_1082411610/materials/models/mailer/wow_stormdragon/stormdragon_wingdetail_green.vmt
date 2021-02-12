@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mailer/wow_stormdragon/stormdragon_wing_green"
+	"$translucent" 1
+	"$nocull" 1
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/weapons/v_models/K98/Kar_Lens_Diff"
+	"$envmap" "env_cubemap"
+                "$no_draw" "1"
+}

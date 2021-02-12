@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/HardlightReticle"
+	$selfillum 1
+	$selfillumtint "[1 0.2 0]"
+	$additive 1
+	"$model" "1"
+	$nocull 1
+}

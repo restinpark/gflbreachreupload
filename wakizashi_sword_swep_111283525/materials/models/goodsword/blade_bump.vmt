@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/goodsword/blade_bump"
+	"$translucent" 1
+}

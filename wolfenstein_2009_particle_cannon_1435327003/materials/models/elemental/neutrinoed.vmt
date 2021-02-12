@@ -1,0 +1,48 @@
+"VertexLitGeneric"
+{
+	$baseTexture 				"models/elemental/vapored_baset"
+	$bumpmap 					"shadertest/noise_normal"
+
+	$envmap 					"env_cubemap"
+	$normalmapalphaenvmapmask 	1
+	$envmaptint 				"[ 0.2 0.2 0.3 ]"
+	$envmapconstrast 			1
+	$surfaceprop 				"default_silent"
+
+	$model 						1
+	$nodecal 					1
+//	$alphatest 					1
+//	$additive 					1
+	$translucent 				1
+
+	$frame 						0
+
+	$selfillumt 				1
+	$selfillumtint 				"[ 1 1 1 ]"
+	
+//	$additive 					1
+
+	$FleshInteriorEnabled      	1
+	$FleshInteriorTexture      	"models/elemental/vapored_baset"
+	$FleshNormalTexture			"shadertest/noise_normal"
+	$FleshBorderTexture1D      	"models/elemental/vapored_tintmap"
+	$FleshInteriorNoiseTexture 	"engine/noise-blur-256x256"
+	$FleshSubsurfaceTexture	 	"models/black"
+	$FleshCubeTexture          	"env_cubemap"
+	$FleshBorderNoiseScale     	0.2
+	$FleshBorderWidth			2
+	$FleshBorderSoftness		0
+	$FleshBorderTint			"[ 0 0 0 ]"
+	$FleshGlossBrightness		12.0
+	$FleshDebugForceFleshOn	 	1
+	$FleshScrollSpeed			1.0
+
+	"Proxies" 
+	{
+		"Equals"
+		{
+			"srcVar1" 		$selfillumtint
+			"resultVar" 	$FleshBorderTint
+		}
+	}
+}

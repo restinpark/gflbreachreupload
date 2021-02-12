@@ -1,0 +1,6 @@
+    "VertexLitGeneric"
+    {
+	"$basetexture" 	"models\HaloReach\weapons\m41_rocket_launcher\illum_blue"
+	"$selfillum" 	"1"
+//	"$nocull"		"1"
+}

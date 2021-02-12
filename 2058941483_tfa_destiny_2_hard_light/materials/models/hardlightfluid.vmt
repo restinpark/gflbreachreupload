@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/HardlightGlass"
+	$color2 "[0.5 0 1]"
+	$additive 1
+	$translucent 0
+	"$model" "1"
+	$nocull 1
+}

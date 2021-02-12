@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+$basetexture "models/Talos/Head_CM"
+"$bumpmap" "models/Talos/Head_NM"
+"$phong" "1"
+ "$phongexponent" 12
+ "$phongboost" "1"
+ "$phongfresnelranges" "[0.25 0.15 0.05]"
+$phongtint "[1 1 1]"
+
+
+$rimlight 1
+ $rimlightexponent 0.5
+ $rimlightboost .1
+$AmbientOcclusion 1
+            "$detail" "models/Talos/head_out"
+            $detailscale 1
+            $detailblendfactor "1.5"
+            $detailblendmode "5"
+          }

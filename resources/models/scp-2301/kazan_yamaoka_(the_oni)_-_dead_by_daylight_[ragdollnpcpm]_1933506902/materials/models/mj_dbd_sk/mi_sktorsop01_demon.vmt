@@ -1,0 +1,26 @@
+"vertexlitgeneric"
+
+{
+
+	$basetexture "models\mj_dbd_sk\T_SKTorsoP01_Demon_BC.vtf"
+	$bumpmap "models\mj_dbd_sk\T_SKTorsoP01_N.vtf"
+
+	$envmap env_cubemap
+
+	
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongtint" "[1.2 0.8 0.8]"
+	
+	"$phongexponent" "5"
+	"$phongboost" "2"
+	"$phongfresnelranges"		"[1 2 4]"
+	
+	$selfillum 1
+	$selfillummask "models\mj_dbd_sk\T_SKTorso01_Emissive.vtf"
+	
+
+	"$bumpmapalphaphongmask"		"1"
+
+
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" models\arceus\HandMaterialArceus
+	"$surfaceprop" "no_decal"
+	"$alphatest" 1
+	"$alpha" 0
+}

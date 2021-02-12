@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vinesauce/memehouse/bulk/liquidbody"
+	"$envmapmask" "model/vinesauce/memehouse/bulk/liquidbodyspec"
+}

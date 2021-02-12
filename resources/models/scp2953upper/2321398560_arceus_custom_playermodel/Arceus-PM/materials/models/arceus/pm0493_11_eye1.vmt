@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Arceus/pm0493_11_eye1"
+	"$normalmap" "models/Arceus/pm0493_11_eyenor"
+
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" "0.5"
+	"$phongfresnelranges"	"[.25 1 4]"
+	"$basemapalphaphongmask" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "10"									// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1.5"
+}

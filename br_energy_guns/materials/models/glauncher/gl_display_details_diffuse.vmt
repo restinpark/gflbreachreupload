@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\glauncher\gl_display_details_diffuse"
+	"$translucent" 	"1"
+	"$nocull"		"1"
+	"$envmapmask" 	"models\glauncher\gl_display_details_diffuse"
+	"$selfillum_envmapmask_alpha" 1
+}

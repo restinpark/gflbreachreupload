@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "bsb/bsb"
+	"$halflambert" 1
+}

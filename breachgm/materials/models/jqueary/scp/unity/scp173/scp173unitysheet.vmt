@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models/jqueary/scp/unity/scp173/scp173unitysheet"
+	$bumpmap "models/jqueary/scp/unity/scp173/scp173unity_normal"
+
+
+	//Provides diffuse reflections
+	$phong "1"
+	$model "1"
+	$phongboost "5"
+	$phongexponenttexture "models/jqueary/scp/unity/scp173/scp173unity_phong"
+	$phongfresnelranges	"[0.05 0.5 1]"
+	$phongalbedotint 1
+	//Implies fractional shine
+	$selfillum 1
+
+	//Adds an edge light to the model that appears to come indirectly from the environment
+	$rimlight "1"	
+	//Exponent for phong component of rim lighting
+	$rimlightexponent "5"
+	//Boost for ambient cube component of rim lighting
+	$rimlightboost "1.5"
+}

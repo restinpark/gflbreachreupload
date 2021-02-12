@@ -1,0 +1,7 @@
+TFA.AddFireSound("TFA_DOOM_SSG.2", {"weapons/tfa_doom/ssg/wpn_shotgun_dbl_fire_01.wav", "weapons/tfa_doom/ssg/wpn_shotgun_dbl_fire_02.wav"}, true, ")" )
+TFA.AddWeaponSound("TFA_DOOM_SSG.Bash", {"weapons/tfa_doom/ssg/bash2.wav" } ) --, "weapons/tfa_doom/ssg/bash1.wav"})
+TFA.AddWeaponSound("TFA_DOOM_SSG.ReloadClose", "weapons/tfa_doom/ssg/wpn_shotgun_dbl_reload_close_01.wav")
+TFA.AddWeaponSound("TFA_DOOM_SSG.ReloadOpen", {"weapons/tfa_doom/ssg/wpn_shotgun_dbl_reload_open_01.wav", "weapons/tfa_doom/ssg/wpn_shotgun_dbl_reload_open_02.wav"})
+TFA.AddWeaponSound("TFA_DOOM_SSG.Insert", {"weapons/tfa_doom/ssg/sfx_wpn_superShotgun_shell_insert_deep_01.wav", "weapons/tfa_doom/ssg/sfx_wpn_superShotgun_shell_insert_deep_02.wav", "weapons/tfa_doom/ssg/sfx_wpn_superShotgun_shell_insert_deep_03.wav", "weapons/tfa_doom/ssg/sfx_wpn_superShotgun_shell_insert_deep_04.wav"})
+TFA.AddWeaponSound("TFA_DOOM_SSG.EjectGear", {"weapons/tfa_doom/ssg/DB_Shells_Eject_Tube_01.wav", "weapons/tfa_doom/ssg/DB_Shells_Eject_Tube_02.wav", "weapons/tfa_doom/ssg/DB_Shells_Eject_Tube_03.wav", "weapons/tfa_doom/ssg/DB_Shells_Eject_Tube_04.wav"})
+TFA.AddWeaponSound("TFA_DOOM_SSG.EjectTube", {"weapons/tfa_doom/ssg/DB_Shells_Eject_Gear_01.wav", "weapons/tfa_doom/ssg/DB_Shells_Eject_Gear_02.wav", "weapons/tfa_doom/ssg/DB_Shells_Eject_Gear_03.wav", "weapons/tfa_doom/ssg/DB_Shells_Eject_Gear_04.wav"})

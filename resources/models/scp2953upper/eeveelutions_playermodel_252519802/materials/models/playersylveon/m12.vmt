@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playersylveon\m12"
+	"$halflambert"	"1"
+}

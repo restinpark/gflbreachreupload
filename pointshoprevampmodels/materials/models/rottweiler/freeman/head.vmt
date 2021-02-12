@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models\rottweiler\freeman\head"
+	"$bumpmap"	"models\rottweiler\freeman\head_n"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "0.3"
+	"$phongfresnelranges" "[.1 .1 1]"
+}

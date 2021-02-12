@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/HardlightDecals"
+	$alphatest 1
+	"$model" "1"
+	$nocull 1
+}

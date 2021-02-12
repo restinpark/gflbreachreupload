@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/alski/scp3199/legs"
+                "$bumpmap" "models/player/alski/scp3199/legsNormalMap"
+	"$alphatest" 1
+	"$surfaceprop" "flesh"
+	"$model" "1"
+	"$halflambert" "1"
+}

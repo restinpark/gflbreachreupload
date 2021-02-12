@@ -1,0 +1,4 @@
+game.AddAmmoType( {
+	name = "Arrows",
+} )
+

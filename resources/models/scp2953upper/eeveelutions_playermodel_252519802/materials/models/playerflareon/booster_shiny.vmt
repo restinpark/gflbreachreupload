@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playerflareon\shiny\booster"
+	"$halflambert"	"1"
+}

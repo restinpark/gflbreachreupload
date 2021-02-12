@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playervaporeon\shiny\showersfillet"
+	"$halflambert"	"1"
+	"$alphatest"	"1"
+}

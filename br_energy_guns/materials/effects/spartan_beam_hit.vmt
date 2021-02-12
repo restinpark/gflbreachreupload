@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"effects\spartan_beam_hit"
+	"$additive"		"1"
+	"$vertexcolor"	"1"
+}

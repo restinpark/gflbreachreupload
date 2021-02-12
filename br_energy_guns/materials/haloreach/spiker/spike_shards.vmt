@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+    {
+	"$basetexture" "HaloReach\spiker\spike_shards"
+
+	"$detail" "models\HaloReach\detail\metal"
+	"$detailscale"		"10"
+	"$detailblendfactor"		"1"
+}

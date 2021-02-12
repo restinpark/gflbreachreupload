@@ -1,0 +1,20 @@
+"vertexlitgeneric"
+
+{
+
+	$basetexture "models\mj_dbd_sk\T_SKWS01_BC.vtf"
+	$bumpmap "models\mj_dbd_sk\T_SKWS01_N.vtf"
+	
+	"$halflambert" 1
+	"$phong" "1" 
+	
+	$nocull "1"
+	$alphatest 1
+	$allowalphatocoverage 1
+	
+	"$phongexponent" "5"
+	"$phongboost" "1"
+	"$phongfresnelranges"		"[0.05 1 0.5]"
+	
+
+}

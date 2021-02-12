@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/goodsword/hand"
+	"$normalmap" "models/goodsword/handnorm"
+}

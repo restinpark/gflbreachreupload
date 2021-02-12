@@ -1,0 +1,6 @@
+    "VertexLitGeneric"
+    {
+	"$basetexture" 	"models\HaloReach\weapons\m6g_magnum\magnum_decals"
+	"$translucent" 	"1"
+	"$nocull"		"1"
+}

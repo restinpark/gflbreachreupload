@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "isaactears/tears/eyeball/eyeball"
+	"$surfaceprop" "flesh"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5]"
+	"$envmapmask" "isaactears/tears/eyeball/eyeball"
+}

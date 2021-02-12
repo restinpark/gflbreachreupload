@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\HaloReach\weapons\m45_tactical_shotgun\shotgun_tritium_diffuse"
+	"$nocull"		"1"
+	"$selfillum" 	"1"
+}

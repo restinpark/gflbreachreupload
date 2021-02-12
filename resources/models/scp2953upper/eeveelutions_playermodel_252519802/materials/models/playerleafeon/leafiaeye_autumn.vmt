@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playerleafeon\autumn\leafiaeye"
+	"$halflambert"	"1"
+}

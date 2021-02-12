@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"effects\plasma_rif_plasma"
+	"$additive"		"1"
+	"$vertexcolor"	"1"
+}

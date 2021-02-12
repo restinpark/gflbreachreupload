@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/sirgibs/ragdolls/det_magnusson/body"
+	"$bumpmap" "models/sirgibs/ragdolls/det_magnusson/body_normals"
+	"$model" "1"
+	"$surfaceprop" "flesh"
+	"$nocull" 1
+
+// -- From here down is new stuff which will only be applied if $phong is set to 1 --
+        $phong 1
+        $phongexponent 7
+        $phongboost 1
+        $phongtint "[1 1 1]"
+        $halflambert 1
+        $phongfresnelranges "[.4 .8 30]"
+}

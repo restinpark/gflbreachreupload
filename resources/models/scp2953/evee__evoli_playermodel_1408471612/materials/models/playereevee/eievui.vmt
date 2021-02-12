@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playereevee\eievui"
+	"$halflambert"	"1"
+}

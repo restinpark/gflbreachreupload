@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/protogenridge/head"
+    $halflambert 1
+}

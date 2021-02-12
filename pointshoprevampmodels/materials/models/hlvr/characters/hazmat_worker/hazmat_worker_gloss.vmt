@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\hazmat_worker\shared\hazmat_worker_gear_albedo"
+	"$bumpMap" "models\hlvr\characters\hazmat_worker\shared\hazmat_worker_gear_normal"
+	"$nocull" "1"
+	"$ambientocclusion" "0"
+	"$normalmapalphaenvmapmask" "1" 
+	"$phong" "1"
+	"$phongboost" ".6"
+	"$phongexponent" "8"
+	"$phongfresnelranges"	"[0.35 4.25 6.75]"					
+	"$phongalbedotint" "1"
+}

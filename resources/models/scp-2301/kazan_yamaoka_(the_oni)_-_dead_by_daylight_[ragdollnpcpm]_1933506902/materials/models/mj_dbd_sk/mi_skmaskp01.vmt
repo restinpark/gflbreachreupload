@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+$basetexture "models\mj_dbd_sk\T_SKMaskP01_BC.vtf"
+$bumpmap "models\mj_dbd_sk\T_SKMaskP01_N.vtf"
+
+$phong 1
+$phongexponent			5
+$phongboost				2
+$phongfresnelranges		"[0.05 0.5 1]"
+
+$normalmapalphaenvmapmask 1
+}

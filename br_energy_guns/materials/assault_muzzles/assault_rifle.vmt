@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "crosshairs/assault_rifle"
+	"$additive" "1"
+	"$vertexalpha" "1"
+	"$vertexcolor" 1
+	"$translucent" "0"
+}

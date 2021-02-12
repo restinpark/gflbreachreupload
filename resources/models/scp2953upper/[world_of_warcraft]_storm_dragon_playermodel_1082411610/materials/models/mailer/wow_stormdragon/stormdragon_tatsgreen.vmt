@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mailer/wow_stormdragon/stormdragon_tatsgreen"
+
+	$detail "models/mailer/wow_stormdragon/stormdragon_green_emis"
+	$detailscale 1
+	$detailblendfactor "1"
+	$detailblendmode 5
+}

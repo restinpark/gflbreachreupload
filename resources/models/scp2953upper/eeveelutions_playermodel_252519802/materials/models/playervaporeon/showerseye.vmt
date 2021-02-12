@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playervaporeon\showerseye"
+	"$halflambert"	"1"
+}

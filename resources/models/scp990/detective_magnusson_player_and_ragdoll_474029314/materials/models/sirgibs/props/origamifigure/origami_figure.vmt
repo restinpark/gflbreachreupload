@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\SirGibs\props/origamifigure/origami_figure"
+	"$bumpmap" "models\SirGibs\props/origamifigure/origami_figure_n"
+	"$halflambert" "1"
+}

@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\haloreach\weapons\DMR\dmr_diffuse"
+	"$bumpmap" "models\haloreach\weapons\DMR\dmr_normal"
+			
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask"  "1"
+"$envmaptint" "[ 0.001 0.001 0.001 ]"
+"$phong" "1"
+
+$detail "models\HaloReach\weapons\SRS99\detail"
+	$detailscale 70
+	$detailblendfactor 1.0
+	$halflambert 1
+
+
+
+"$phongexponent" "20"
+"$phongboost" "0.09"
+"$phongfresnelranges""[3 6 12]"
+"$phongalbedotint" "1"
+}

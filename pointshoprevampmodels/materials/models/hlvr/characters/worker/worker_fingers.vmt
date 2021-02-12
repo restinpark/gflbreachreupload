@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\worker\shared\worker_body_albedo"
+	"$bumpMap" "models\hlvr\characters\worker\shared\worker_body_normal"
+	"$phongExponentTexture" "models\hlvr\characters\worker\shared\worker_body_exponent"
+	"$halfLambert" "1"
+	"$normalMapAlphaEnvMapMask" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongBoost" ".15"
+	"$phongFresnelRanges" "[0.3 2.85 22.25]"
+	"$NoCull" "1"
+	"$phongDisableHalfLambert" "1"
+}

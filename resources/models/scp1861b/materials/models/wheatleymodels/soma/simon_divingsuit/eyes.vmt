@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	$basetexture	"models/wheatleymodels/soma/simon_divingsuit/eyes"
+
+	"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar		$color2
+			default		1 0 0
+		}
+	}
+}

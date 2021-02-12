@@ -1,0 +1,21 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/p1"
+	"$nocull"			100
+	"$MinLight"		10
+	"$MaxLight"		1000
+	"$additive"		1
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "20"
+		}
+	}
+}
+
+
+
+

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playerespeon\eifieeye"
+	"$halflambert"	"1"
+}

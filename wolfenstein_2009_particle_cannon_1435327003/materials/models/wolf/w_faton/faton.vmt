@@ -1,0 +1,33 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\wolf\w_faton\faton"	
+  	"$bumpmap"	"models\wolf\w_faton\faton_n"
+
+	"$model" "1"
+
+
+
+"$reflectivity" "[.5 .5 .5]"
+
+
+
+"$ssbump" "1"
+"$parallaxmapscale" "1" 
+
+"$rimlightboost" ".5"
+"$rimmask" "1"
+"$rimlight" "1"
+"$rimlightexponent" "3"
+
+
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" 50
+
+	"$phongboost" "1"
+"$BasemapLuminancePhongMask" "1"
+            "$phongexponenttexture" "models\wolf\w_faton\faton_s"
+"$PhongAlbedoTint" "1"
+	"$phongfresnelranges""[ .3 .5 1]"
+}

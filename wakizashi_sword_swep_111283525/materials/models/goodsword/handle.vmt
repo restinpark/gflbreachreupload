@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/goodsword/handle"
+                "$bumpmap" "models/goodsword/handle_bump"
+}

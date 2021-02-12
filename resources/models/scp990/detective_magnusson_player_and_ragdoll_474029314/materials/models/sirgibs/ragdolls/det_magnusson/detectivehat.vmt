@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models/sirgibs/ragdolls/det_magnusson/detectivehat"
+	"$bumpmap" 		"models/sirgibs/ragdolls/det_magnusson/detectivehat_n"
+	"$halflambert" "1"
+	"$nocull" 1
+}

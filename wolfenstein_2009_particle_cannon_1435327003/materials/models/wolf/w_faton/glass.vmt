@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\wolf\w_faton\glass"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$envmapmask" "glass/combineglass001a_mask"
+	"$translucent" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .75]"
+
+
+
+}

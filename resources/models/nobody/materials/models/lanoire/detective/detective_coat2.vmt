@@ -1,0 +1,12 @@
+vertexlitgeneric
+{
+$baseTexture "models\lanoire\Detective/Detective_Coat2_Diff"
+$bumpmap "models\lanoire\Detective/Detective_Coat2_Normal"
+$phong 1
+$phongboost "0.02"
+$phongexponent 5.5
+$phongtint "[.85 .85 1]"
+$phongfresnelranges	"[.5 3 48]"
+$nodecal 1
+$ambientocclusion 1
+}

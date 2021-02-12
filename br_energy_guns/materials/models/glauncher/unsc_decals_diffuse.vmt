@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\glauncher\unsc_decals_diffuse"
+	"$translucent" 1
+}

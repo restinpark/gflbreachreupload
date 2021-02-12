@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playerumbreon\shiny\blacky"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+}

@@ -1,0 +1,15 @@
+vertexlitgeneric
+{
+	// MAIN SETTINGS
+	$baseTexture 				"models/weapons/tfa_l4d2/1887/shell_dA"
+	$bumpmap 					"models/weapons/tfa_l4d2/1887/shell_n"
+
+	// PHONG SHADING
+	$phong                      1
+	$phongboost                 2
+	$phongfresnelranges         "[.5 1.5 5.9]"
+	$phongalbedotint            1
+	$phongexponent 				10
+	$normalmapalphaphongmask    1
+	// $BasemapAlphaPhongMask		1
+}

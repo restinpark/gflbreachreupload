@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/doom_baronofhell/body"
+	"$bumpmap" "models/doom_baronofhell/body_n"
+
+	"$halflambert" "1"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "7"
+	"$phongboost" "0.4"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .70 .70]"
+	"$phongfresnelranges"	"[0.2 3 9]"
+	"$selfillum" "1"
+}

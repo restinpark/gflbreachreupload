@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/HaloReach/reach_magnum/m6g_magazine"
+	"$bumpmap" "models/HaloReach/reach_magnum/m6g_magazine_bump"
+	
+	"$phong" 1
+	"$phongboost" "1"
+	"$phongexponent" "75"
+	"$phongfresnelranges" "[.5 .85 30]"
+}

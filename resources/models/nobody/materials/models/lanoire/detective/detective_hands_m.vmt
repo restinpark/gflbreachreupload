@@ -1,0 +1,15 @@
+vertexlitgeneric
+{
+$baseTexture "models\lanoire\Detective/Detective_hands_m_Diff"
+$bumpmap "models\lanoire\Detective/Detective_hands_Normal"
+$phong 1
+$phongboost "0.10"
+$phongexponent 1.5
+$phongtint "[.85 .85 1]"
+$phongfresnelranges	"[.5 3 48]"
+$nodecal 1
+$ambientocclusion 1
+	"$lightwarptexture" 	"models\ninja/mgs5/Clothes_wrp"
+	$halflambert 1
+	$nocull 1
+}

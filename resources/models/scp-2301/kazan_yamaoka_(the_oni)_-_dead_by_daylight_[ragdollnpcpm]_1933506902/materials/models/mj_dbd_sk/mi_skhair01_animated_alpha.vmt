@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+
+$basetexture "models\mj_dbd_sk\3_alt.vtf"
+$bumpmap "models\mj_dbd_sk\T_HKHair01_N.vtf"
+
+"$lightwarptexture" "models\mj_dbd_sk\facewarp.vtf"
+
+$alphatest 1
+
+$nocull 1
+
+}

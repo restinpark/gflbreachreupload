@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\prifle\plasma_rifle_gauge"
+	"$translucent" 1
+}

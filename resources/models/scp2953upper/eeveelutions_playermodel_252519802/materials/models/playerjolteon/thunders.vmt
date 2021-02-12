@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\playerjolteon\thunders"
+	"$halflambert"	"1"
+}

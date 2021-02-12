@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\weapons\bal27\i_bal27_min_c"
+	"$bumpmap"     "models\weapons\bal27\i_bal27_min_n"
+                "$ambientocclusion" 1
+
+    "$phongfresnelranges"            "[5 7 8]"
+
+//    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.35 0.35 0.35]"
+    "$normalmapalphaenvmapmask" "1"
+}

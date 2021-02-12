@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+    {
+	"$basetexture" "HaloReach\spiker\spike_rifle_diff"
+	"$bumpmap" "HaloReach\spiker\spike_rifle_zbump"
+
+	"$detail" "models\HaloReach\detail\metal"
+	"$detailscale"		"10"
+	"$detailblendfactor"		"1"
+
+	$halflambert 1
+	$nocull 1
+
+	$Normalmapalphaenvmapmask 1	
+
+    $phong 1
+	// $phongexponent 7
+	$phongexponenttexture "models\HaloReach\HaloSP"
+	$phongboost	15
+	$phongalbedotint 1
+	$phongfresnelranges	"[1 1 1]"
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.05
+}
